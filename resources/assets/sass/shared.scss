@@ -1,6 +1,7 @@
 @import "./fonts.scss";
 @import "./reset.scss";
 @import "./vars.scss";
+@import "./mixins.scss";
 
 html {
     font-size: 10px;
@@ -27,7 +28,7 @@ body {
 .container {
     box-sizing: content-box;
     margin: 0 auto;
-    max-width: 1046px;
+    max-width: 1218px;
     padding-left: 15px;
     padding-right: 15px;
 }

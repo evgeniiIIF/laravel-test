@@ -20,6 +20,6 @@ mix.copyDirectory("./resources/assets/img", "public/assets/img");
 
 mix.copyDirectory("resources/assets/fonts", "public/assets/fonts");
 
-mix.browserSync("127.0.0.1:8000");
-
 mix.version();
+
+mix.browserSync("127.0.0.1:8000");

@@ -1,9 +1,17 @@
 {
-    "/assets/js/main.js": "/assets/js/main.js?id=e2bc8d369d0a3b391cdec83b318e8c62",
-    "/assets/css/main.css": "/assets/css/main.css?id=957ec29a3ae4252fe81b3778765a5c1d",
+    "/assets/js/main.js": "/assets/js/main.js?id=63e8b355de255a4d4e556dc46163fbf2",
+    "/assets/css/main.css": "/assets/css/main.css?id=58d5eef094938835e379921ae2f707d9",
     "/assets/img/Home.jpg": "/assets/img/Home.jpg?id=ac931233809fdcc19224a5748fef3f61",
+    "/assets/img/cards/card1.png": "/assets/img/cards/card1.png?id=881f5433c561896edad5d1c9de447d20",
+    "/assets/img/cards/card2.png": "/assets/img/cards/card2.png?id=c6abae3a57b882ed954cb3c6f2eec9e4",
+    "/assets/img/cards/card3.png": "/assets/img/cards/card3.png?id=8df885abfd93f57cafb7d7d2031445e7",
     "/assets/img/favicon.ico": "/assets/img/favicon.ico?id=d41d8cd98f00b204e9800998ecf8427e",
     "/assets/img/favicon.png": "/assets/img/favicon.png?id=a03729ddc3b36edd68f79cbd87c57c52",
+    "/assets/img/icons/Test (Copy).zip": "/assets/img/icons/Test (Copy).zip?id=76cdb2bad9582d23c1f6f4d868218d6c",
+    "/assets/img/icons/chevron_right.svg": "/assets/img/icons/chevron_right.svg?id=f1f225b7b5f6511d2b26de9ac7808348",
+    "/assets/img/icons/coolicon.svg": "/assets/img/icons/coolicon.svg?id=10b2313d6c6ebf41d30ceb2b2994a0b4",
+    "/assets/img/icons/shopping-cart 1.svg": "/assets/img/icons/shopping-cart 1.svg?id=37660a58ff8be57ca56a815824025599",
+    "/assets/img/icons/shopping-cart.svg": "/assets/img/icons/shopping-cart.svg?id=37660a58ff8be57ca56a815824025599",
     "/assets/fonts/Inter-Medium.ttf": "/assets/fonts/Inter-Medium.ttf?id=22fc3279006937b0e54ea9060faad96d",
     "/assets/fonts/Inter-Medium.woff": "/assets/fonts/Inter-Medium.woff?id=aa51c366436bab0a887a3c888409ee4d",
     "/assets/fonts/Inter-Medium.woff2": "/assets/fonts/Inter-Medium.woff2?id=586ce3a4f15cc6f0220e4bbecc8dcb2a",
@@ -13,6 +21,5 @@
     "/assets/fonts/OpenSans-Regular.ttf": "/assets/fonts/OpenSans-Regular.ttf?id=b9138aa11cc737b25eb6765f7062fc1b",
     "/assets/fonts/OpenSans-Regular.woff": "/assets/fonts/OpenSans-Regular.woff?id=e91e68e3945eecf34f0b37ca91108c79",
     "/assets/fonts/OpenSans-Regular.woff2": "/assets/fonts/OpenSans-Regular.woff2?id=32858322f57f72f22cad82320289452d",
-    "/assets/fonts/fonts.scss": "/assets/fonts/fonts.scss?id=7a879bc7a17c87a1b2f84120db612259",
-    "/assets/fonts/stylesheet.scss": "/assets/fonts/stylesheet.scss?id=87b1bd854fcde83591b0ea8d4e952c90"
+    "/assets/fonts/fonts.scss": "/assets/fonts/fonts.scss?id=7a879bc7a17c87a1b2f84120db612259"
 }
